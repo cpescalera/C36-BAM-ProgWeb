@@ -1,0 +1,130 @@
+.titulo1{
+    font-size: 50px;
+}
+
+
+span{
+
+    color:goldenrod;
+    font-weight:600;
+}
+
+.navbar{
+     color: grey;
+     
+
+}
+
+nav ul{
+
+    list-style: none;
+    text-align:end;
+}
+
+nav li{
+
+    display: inline-flex;
+    padding: 10px;
+
+}
+
+nav li:hover {
+
+    background-color: black;
+}
+
+.bloque1{
+      margin-right: 420px;
+      
+
+}
+
+.titulo2{
+    font-size: 30px;
+    color: dimgrey;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+
+p{
+    text-align: justify;
+    padding: 20px;
+    font-family: Calibri; 
+    font-size: 18px;
+    }
+
+
+h3{
+
+    font-size: 22px;
+    padding: 20px;
+    font-family: Calibri; 
+    
+}
+
+ul li{
+    text-align:justify
+    padding: 20px;
+    font-size: 18px;
+    font-family: Calibri; 
+}
+
+.imagenvista{
+    height: 500px; 
+    padding-left: 50px;
+}
+
+h3{
+    padding: 30px;
+    
+}
+
+
+.descripcion{
+
+    text-align:justify
+    padding: 20px;
+    font-family: Calibri; 
+    font-size: 18px;
+
+}
+
+
+h2{
+
+    margin-top: 50px;
+    color: grey;
+    font-size: 30px;
+    padding-left: 20px;
+}
+.purma{
+    height: 500px; 
+    padding-left: 50px;
+    padding-top: 20px;
+    
+    
+
+}
+
+
+
+.sitios{
+    background-color:darkgray;
+    
+}
+
+    .piedepagina{
+        font-size: 25px;
+        margin-top: 150px;
+    }
+    
+    .icono{
+        list-style: none;
+        
+        text-align: center ;   
+     }
+     .icono li{
+        display:inline-flex;
+        padding: 15px;
+
+     }
